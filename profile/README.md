@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://osx-install.github.io/.github/imazing-mac" target="_blank">  
+  <a href="https://get-install-osx.github.io/.github/imazing-mac" target="_blank">  
     <img src="https://img.shields.io/badge/GET_iMAZING_FOR_MAC-%F0%9F%92%BE-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Get iMazing for Mac">  
   </a>  
 </div>  
